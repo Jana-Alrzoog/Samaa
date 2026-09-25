@@ -1,0 +1,23 @@
+# core ML
+torch
+transformers>=4.44
+datasets>=3.0
+accelerate
+jiwer
+soundfile
+librosa
+numpy
+pandas
+scikit-learn
+matplotlib
+
+# serving + demo
+fastapi
+uvicorn
+python-multipart
+gradio
+
+# dev
+pytest
+
+# system dependency (not pip): ffmpeg

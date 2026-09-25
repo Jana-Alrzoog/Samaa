@@ -1,0 +1,23 @@
+# Never commit audio, consent forms, or model weights
+recordings/
+consent/
+*.wav
+*.m4a
+*.mp3
+*.ogg
+*.flac
+*.amr
+*.gsm
+checkpoints/
+models/
+data/sada_cache/
+data/sada_tel/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+.pytest_cache/
+.ipynb_checkpoints/
+
+# Keep results (small JSON/CSV/PNG) in git
