@@ -1,0 +1,301 @@
+utt_id,speaker,split,entity_type,style,prompt,gold
+S01_01,S01,dev,amount,self_correction,"انخصم مني 4,850... عفوًا، 4,750 ريال",4750
+S01_02,S01,dev,national_id,self_correction,رقم إقامتي 2818... لا لحظة، 2 811 511 480,2811511480
+S01_03,S01,dev,national_id,plain,رقم إقامتي 2 144 982 515,2144982515
+S01_04,S01,dev,national_id,plain,رقم إقامتي 2 413 982 253,2413982253
+S01_05,S01,dev,mobile,plain,الرقم هو 050 268 3106,0502683106
+S01_06,S01,dev,national_id,plain,هويتي رقمها 1 789 516 919,1789516919
+S01_07,S01,dev,mobile,self_correction,الرقم هو 053... لا غلطت، 058 720 3229,0587203229
+S01_08,S01,dev,mobile,plain,سجل عندك الرقم 051 333 2041,0513332041
+S01_09,S01,dev,amount,plain,"المبلغ 12,500 ريال",12500
+S01_10,S01,dev,mobile,self_correction,سجل عندك الرقم 051... لا غلطت، 052 950 0167,0529500167
+S01_11,S01,dev,national_id,plain,رقم الإقامة 2 851 319 992,2851319992
+S01_12,S01,dev,mobile,plain,الرقم هو 055 808 6319,0558086319
+S01_13,S01,dev,amount,plain,انخصم مني 12 ريال,12
+S01_14,S01,dev,mobile,self_correction,جوالي 057... عفوًا، 053 942 2525,0539422525
+S01_15,S01,dev,mobile,plain,سجل عندك الرقم 056 022 7680,0560227680
+S01_16,S01,dev,mobile,plain,الرقم هو 059 883 4813,0598834813
+S01_17,S01,dev,amount,plain,المبلغ 800 ريال,800
+S01_18,S01,dev,national_id,plain,رقم هويتي 1 200 550 703,1200550703
+S01_19,S01,dev,national_id,plain,هويتي رقمها 1 976 736 387,1976736387
+S01_20,S01,dev,amount,self_correction,حولت 400... عفوًا، 450 ريال,450
+S01_21,S01,dev,amount,plain,"المبلغ اللي انسحب 36,400 ريال",36400
+S01_22,S01,dev,amount,plain,المبلغ اللي انسحب 15 ريال,15
+S01_23,S01,dev,national_id,plain,الإقامة 2 542 596 180,2542596180
+S01_24,S01,dev,amount,plain,المبلغ اللي انسحب 300 ريال,300
+S01_25,S01,dev,amount,self_correction,"المبلغ اللي انسحب 11,050... لا غلطت، 11,000 ريال",11000
+S01_26,S01,dev,national_id,self_correction,هويتي رقمها 1804... لا غلطت، 1 802 621 951,1802621951
+S01_27,S01,dev,amount,plain,انخصم مني 11 ريال,11
+S01_28,S01,dev,national_id,self_correction,رقم إقامتي 2100... لا غلطت، 2 104 447 699,2104447699
+S01_29,S01,dev,mobile,plain,سجل عندك الرقم 050 026 5774,0500265774
+S01_30,S01,dev,mobile,self_correction,جوالي 053... عفوًا، 057 606 5242,0576065242
+S02_01,S02,dev,amount,plain,دفعت 19 ريال,19
+S02_02,S02,dev,amount,plain,"دفعت 5,000 ريال",5000
+S02_03,S02,dev,mobile,plain,سجل عندك الرقم 056 455 9272,0564559272
+S02_04,S02,dev,mobile,plain,رقمي 055 290 6803,0552906803
+S02_05,S02,dev,national_id,self_correction,رقم الإقامة 2269... لا غلطت، 2 260 771 411,2260771411
+S02_06,S02,dev,national_id,plain,رقم الإقامة 2 365 163 712,2365163712
+S02_07,S02,dev,national_id,plain,رقم الإقامة 2 192 147 367,2192147367
+S02_08,S02,dev,amount,plain,"حولت 12,500 ريال",12500
+S02_09,S02,dev,national_id,plain,الهوية 1 352 709 578,1352709578
+S02_10,S02,dev,mobile,plain,رقم جوالي 051 649 9065,0516499065
+S02_11,S02,dev,amount,plain,"دفعت 36,400 ريال",36400
+S02_12,S02,dev,national_id,self_correction,الهوية 1817... لا غلطت، 1 810 967 487,1810967487
+S02_13,S02,dev,national_id,plain,رقم إقامتي 2 892 639 598,2892639598
+S02_14,S02,dev,mobile,self_correction,رقمي 059... لا لحظة، 056 275 4008,0562754008
+S02_15,S02,dev,mobile,plain,رقمي 057 696 0826,0576960826
+S02_16,S02,dev,national_id,plain,رقم الإقامة 2 483 276 347,2483276347
+S02_17,S02,dev,mobile,plain,الرقم هو 052 871 2236,0528712236
+S02_18,S02,dev,amount,plain,المبلغ اللي انسحب 250 ريال,250
+S02_19,S02,dev,national_id,self_correction,رقم هويتي 1573... عفوًا، 1 579 762 665,1579762665
+S02_20,S02,dev,amount,self_correction,"حولت 4,800... لا غلطت، 4,750 ريال",4750
+S02_21,S02,dev,national_id,plain,الإقامة 2 284 372 014,2284372014
+S02_22,S02,dev,amount,self_correction,"المبلغ اللي انسحب 2,100... لا غلطت، 2,000 ريال",2000
+S02_23,S02,dev,amount,self_correction,"المبلغ اللي انسحب 2,000... لا لا، أقصد 1,000 ريال",1000
+S02_24,S02,dev,mobile,self_correction,رقم جوالي 057... لا لحظة، 050 739 8882,0507398882
+S02_25,S02,dev,amount,plain,المبلغ اللي انسحب 800 ريال,800
+S02_26,S02,dev,mobile,plain,جوالي 050 229 8831,0502298831
+S02_27,S02,dev,national_id,plain,رقم الإقامة 2 499 661 953,2499661953
+S02_28,S02,dev,mobile,self_correction,رقمي 052... لا غلطت، 056 358 9792,0563589792
+S02_29,S02,dev,mobile,self_correction,الرقم هو 053... لا لا، أقصد 058 511 3878,0585113878
+S02_30,S02,dev,amount,plain,دفعت 12 ريال,12
+S03_01,S03,dev,mobile,plain,رقم جوالي 058 470 9209,0584709209
+S03_02,S03,dev,national_id,plain,الإقامة 2 329 247 569,2329247569
+S03_03,S03,dev,national_id,plain,الهوية 1 247 952 110,1247952110
+S03_04,S03,dev,amount,self_correction,"دفعت 10,950... عفوًا، 11,000 ريال",11000
+S03_05,S03,dev,national_id,self_correction,هويتي رقمها 1898... لا غلطت، 1 890 254 566,1890254566
+S03_06,S03,dev,national_id,plain,رقم الإقامة 2 156 697 480,2156697480
+S03_07,S03,dev,national_id,self_correction,الإقامة 2101... لا لحظة، 2 105 295 618,2105295618
+S03_08,S03,dev,amount,self_correction,"المبلغ 1,950... لا غلطت، 2,000 ريال",2000
+S03_09,S03,dev,amount,plain,دفعت 12 ريال,12
+S03_10,S03,dev,national_id,plain,رقم هويتي 1 434 322 580,1434322580
+S03_11,S03,dev,mobile,plain,الرقم هو 058 379 0854,0583790854
+S03_12,S03,dev,mobile,plain,سجل عندك الرقم 052 388 5778,0523885778
+S03_13,S03,dev,amount,plain,المبلغ 19 ريال,19
+S03_14,S03,dev,national_id,plain,رقم إقامتي 2 722 111 578,2722111578
+S03_15,S03,dev,amount,plain,انخصم مني 450 ريال,450
+S03_16,S03,dev,mobile,plain,الرقم هو 050 323 7378,0503237378
+S03_17,S03,dev,amount,plain,"انخصم مني 100,000 ريال",100000
+S03_18,S03,dev,mobile,plain,رقمي 059 595 6048,0595956048
+S03_19,S03,dev,national_id,plain,رقم هويتي 1 074 766 476,1074766476
+S03_20,S03,dev,mobile,self_correction,رقمي 058... عفوًا، 057 910 1165,0579101165
+S03_21,S03,dev,national_id,self_correction,رقم إقامتي 2440... لا لا، أقصد 2 441 094 840,2441094840
+S03_22,S03,dev,amount,plain,"المبلغ 1,350 ريال",1350
+S03_23,S03,dev,mobile,self_correction,جوالي 051... لا لحظة، 053 706 6178,0537066178
+S03_24,S03,dev,mobile,self_correction,رقم جوالي 054... لا غلطت، 057 167 1891,0571671891
+S03_25,S03,dev,amount,plain,"انخصم مني 15,250 ريال",15250
+S03_26,S03,dev,mobile,plain,رقمي 052 403 6414,0524036414
+S03_27,S03,dev,national_id,plain,الإقامة 2 263 545 473,2263545473
+S03_28,S03,dev,amount,self_correction,المبلغ 350... عفوًا، 250 ريال,250
+S03_29,S03,dev,mobile,self_correction,الرقم هو 058... لا لا، أقصد 053 435 3881,0534353881
+S03_30,S03,dev,amount,plain,"انخصم مني 4,750 ريال",4750
+S04_01,S04,test,national_id,plain,رقم هويتي 1 349 397 610,1349397610
+S04_02,S04,test,amount,plain,"حولت 20,000 ريال",20000
+S04_03,S04,test,amount,plain,"المبلغ اللي انسحب 2,500 ريال",2500
+S04_04,S04,test,national_id,self_correction,هويتي رقمها 1438... لا لحظة، 1 435 642 812,1435642812
+S04_05,S04,test,amount,plain,المبلغ 800 ريال,800
+S04_06,S04,test,national_id,self_correction,رقم هويتي 1338... عفوًا، 1 332 608 304,1332608304
+S04_07,S04,test,amount,self_correction,المبلغ اللي انسحب 112... لا لا، أقصد 12 ريال,12
+S04_08,S04,test,national_id,self_correction,رقم الهوية 1459... لا لا، أقصد 1 452 646 845,1452646845
+S04_09,S04,test,mobile,plain,رقم جوالي 059 540 0432,0595400432
+S04_10,S04,test,mobile,self_correction,جوالي 050... لا غلطت، 059 461 9621,0594619621
+S04_11,S04,test,mobile,plain,رقمي 052 685 0785,0526850785
+S04_12,S04,test,amount,plain,"حولت 1,000 ريال",1000
+S04_13,S04,test,amount,plain,دفعت 450 ريال,450
+S04_14,S04,test,amount,plain,"المبلغ 100,000 ريال",100000
+S04_15,S04,test,national_id,plain,هويتي رقمها 1 072 630 369,1072630369
+S04_16,S04,test,national_id,plain,هويتي رقمها 1 558 845 473,1558845473
+S04_17,S04,test,mobile,self_correction,جوالي 055... لا غلطت، 050 994 1847,0509941847
+S04_18,S04,test,mobile,plain,جوالي 050 021 7880,0500217880
+S04_19,S04,test,mobile,plain,الرقم هو 054 691 5640,0546915640
+S04_20,S04,test,national_id,plain,رقم إقامتي 2 684 562 628,2684562628
+S04_21,S04,test,mobile,plain,جوالي 054 311 4464,0543114464
+S04_22,S04,test,national_id,plain,الإقامة 2 373 989 231,2373989231
+S04_23,S04,test,mobile,self_correction,رقمي 058... لا غلطت، 053 720 7856,0537207856
+S04_24,S04,test,national_id,plain,رقم هويتي 1 406 846 905,1406846905
+S04_25,S04,test,amount,self_correction,"المبلغ 3,000... عفوًا، 2,000 ريال",2000
+S04_26,S04,test,mobile,plain,رقمي 054 056 4402,0540564402
+S04_27,S04,test,amount,plain,انخصم مني 250 ريال,250
+S04_28,S04,test,mobile,self_correction,رقم جوالي 054... لا غلطت، 058 925 3958,0589253958
+S04_29,S04,test,amount,self_correction,"انخصم مني 5,050... عفوًا، 5,000 ريال",5000
+S04_30,S04,test,national_id,plain,الإقامة 2 342 461 163,2342461163
+S05_01,S05,test,mobile,plain,رقم جوالي 050 299 8026,0502998026
+S05_02,S05,test,amount,plain,"انخصم مني 11,000 ريال",11000
+S05_03,S05,test,mobile,self_correction,رقم جوالي 058... لا غلطت، 053 750 2141,0537502141
+S05_04,S05,test,amount,self_correction,"حولت 101,000... لا لحظة، 100,000 ريال",100000
+S05_05,S05,test,amount,plain,حولت 12 ريال,12
+S05_06,S05,test,national_id,self_correction,رقم الهوية 1162... لا لحظة، 1 160 724 330,1160724330
+S05_07,S05,test,mobile,plain,رقم جوالي 054 714 0449,0547140449
+S05_08,S05,test,amount,plain,المبلغ 19 ريال,19
+S05_09,S05,test,mobile,plain,الرقم هو 056 242 3939,0562423939
+S05_10,S05,test,amount,plain,"حولت 8,600 ريال",8600
+S05_11,S05,test,national_id,plain,رقم هويتي 1 489 490 233,1489490233
+S05_12,S05,test,national_id,self_correction,رقم هويتي 1165... لا غلطت، 1 166 264 422,1166264422
+S05_13,S05,test,amount,plain,"انخصم مني 36,400 ريال",36400
+S05_14,S05,test,mobile,self_correction,رقمي 056... لا لا، أقصد 050 397 2855,0503972855
+S05_15,S05,test,mobile,self_correction,جوالي 054... لا غلطت، 057 515 9078,0575159078
+S05_16,S05,test,national_id,plain,الهوية 1 044 649 000,1044649000
+S05_17,S05,test,amount,self_correction,المبلغ 400... لا غلطت، 450 ريال,450
+S05_18,S05,test,national_id,plain,رقم الهوية 1 004 731 095,1004731095
+S05_19,S05,test,mobile,plain,جوالي 055 891 2085,0558912085
+S05_20,S05,test,national_id,plain,الإقامة 2 837 332 960,2837332960
+S05_21,S05,test,mobile,plain,الرقم هو 052 089 3419,0520893419
+S05_22,S05,test,national_id,plain,هويتي رقمها 1 716 858 483,1716858483
+S05_23,S05,test,mobile,plain,جوالي 059 125 3396,0591253396
+S05_24,S05,test,national_id,plain,هويتي رقمها 1 165 735 257,1165735257
+S05_25,S05,test,amount,plain,"المبلغ 1,350 ريال",1350
+S05_26,S05,test,amount,self_correction,"انخصم مني 12,600... لا غلطت، 12,500 ريال",12500
+S05_27,S05,test,national_id,plain,هويتي رقمها 1 148 351 222,1148351222
+S05_28,S05,test,mobile,self_correction,رقم جوالي 052... لا لحظة، 057 529 9571,0575299571
+S05_29,S05,test,amount,plain,"انخصم مني 15,250 ريال",15250
+S05_30,S05,test,national_id,self_correction,الهوية 1662... لا غلطت، 1 666 027 931,1666027931
+S06_01,S06,test,national_id,plain,الهوية 1 127 557 567,1127557567
+S06_02,S06,test,mobile,plain,جوالي 051 747 7495,0517477495
+S06_03,S06,test,mobile,plain,الرقم هو 057 270 6517,0572706517
+S06_04,S06,test,mobile,self_correction,رقم جوالي 052... عفوًا، 053 532 8961,0535328961
+S06_05,S06,test,amount,plain,دفعت 19 ريال,19
+S06_06,S06,test,amount,plain,"المبلغ اللي انسحب 100,000 ريال",100000
+S06_07,S06,test,mobile,self_correction,رقم جوالي 055... لا لحظة، 059 563 9376,0595639376
+S06_08,S06,test,mobile,plain,الرقم هو 053 934 4675,0539344675
+S06_09,S06,test,amount,plain,"دفعت 20,000 ريال",20000
+S06_10,S06,test,national_id,plain,الهوية 1 967 722 974,1967722974
+S06_11,S06,test,national_id,plain,رقم إقامتي 2 963 593 377,2963593377
+S06_12,S06,test,national_id,plain,رقم إقامتي 2 654 775 416,2654775416
+S06_13,S06,test,amount,self_correction,"المبلغ 3,250... عفوًا، 3,200 ريال",3200
+S06_14,S06,test,amount,self_correction,المبلغ 500... لا لا، أقصد 450 ريال,450
+S06_15,S06,test,mobile,self_correction,رقمي 056... لا غلطت، 055 359 7095,0553597095
+S06_16,S06,test,mobile,plain,الرقم هو 058 908 2553,0589082553
+S06_17,S06,test,amount,self_correction,"انخصم مني 3,000... لا غلطت، 2,000 ريال",2000
+S06_18,S06,test,national_id,self_correction,رقم إقامتي 2942... لا غلطت، 2 948 746 900,2948746900
+S06_19,S06,test,national_id,self_correction,رقم هويتي 1297... لا لحظة، 1 291 492 435,1291492435
+S06_20,S06,test,amount,plain,المبلغ 800 ريال,800
+S06_21,S06,test,amount,plain,"المبلغ 36,400 ريال",36400
+S06_22,S06,test,national_id,plain,الهوية 1 643 312 943,1643312943
+S06_23,S06,test,national_id,plain,رقم هويتي 1 804 397 519,1804397519
+S06_24,S06,test,mobile,plain,رقم جوالي 057 882 1167,0578821167
+S06_25,S06,test,amount,plain,دفعت 12 ريال,12
+S06_26,S06,test,amount,plain,"المبلغ اللي انسحب 1,350 ريال",1350
+S06_27,S06,test,mobile,plain,جوالي 055 340 8088,0553408088
+S06_28,S06,test,national_id,plain,رقم الإقامة 2 116 697 034,2116697034
+S06_29,S06,test,national_id,self_correction,رقم إقامتي 2522... لا لحظة، 2 529 309 862,2529309862
+S06_30,S06,test,mobile,self_correction,رقم جوالي 053... لا غلطت، 055 948 8906,0559488906
+S07_01,S07,test,amount,plain,"المبلغ 2,000 ريال",2000
+S07_02,S07,test,mobile,plain,رقم جوالي 058 694 1179,0586941179
+S07_03,S07,test,amount,plain,"المبلغ اللي انسحب 2,500 ريال",2500
+S07_04,S07,test,mobile,plain,سجل عندك الرقم 050 628 0627,0506280627
+S07_05,S07,test,national_id,plain,رقم هويتي 1 243 549 183,1243549183
+S07_06,S07,test,national_id,plain,رقم الإقامة 2 179 899 675,2179899675
+S07_07,S07,test,mobile,self_correction,الرقم هو 056... لا غلطت، 050 073 3566,0500733566
+S07_08,S07,test,national_id,plain,رقم هويتي 1 224 929 412,1224929412
+S07_09,S07,test,national_id,self_correction,الهوية 1262... عفوًا، 1 265 135 515,1265135515
+S07_10,S07,test,national_id,self_correction,رقم هويتي 1808... عفوًا، 1 800 656 744,1800656744
+S07_11,S07,test,mobile,plain,جوالي 058 783 9449,0587839449
+S07_12,S07,test,national_id,self_correction,رقم إقامتي 2485... لا لا، أقصد 2 486 200 443,2486200443
+S07_13,S07,test,amount,plain,"حولت 100,000 ريال",100000
+S07_14,S07,test,amount,self_correction,"انخصم مني 8,700... عفوًا، 8,600 ريال",8600
+S07_15,S07,test,amount,plain,"انخصم مني 3,200 ريال",3200
+S07_16,S07,test,mobile,self_correction,الرقم هو 057... عفوًا، 056 364 6308,0563646308
+S07_17,S07,test,mobile,self_correction,رقم جوالي 052... لا غلطت، 056 706 4571,0567064571
+S07_18,S07,test,amount,plain,"المبلغ 20,000 ريال",20000
+S07_19,S07,test,amount,plain,المبلغ 19 ريال,19
+S07_20,S07,test,national_id,plain,رقم إقامتي 2 887 967 517,2887967517
+S07_21,S07,test,mobile,plain,الرقم هو 052 010 9595,0520109595
+S07_22,S07,test,mobile,plain,رقمي 057 677 3058,0576773058
+S07_23,S07,test,amount,self_correction,"دفعت 1,800... لا لا، أقصد 800 ريال",800
+S07_24,S07,test,mobile,self_correction,سجل عندك الرقم 059... لا غلطت، 057 553 6217,0575536217
+S07_25,S07,test,amount,self_correction,حولت 250... لا غلطت، 300 ريال,300
+S07_26,S07,test,national_id,plain,رقم إقامتي 2 374 445 134,2374445134
+S07_27,S07,test,national_id,plain,رقم الهوية 1 853 192 951,1853192951
+S07_28,S07,test,national_id,plain,رقم الإقامة 2 451 855 718,2451855718
+S07_29,S07,test,mobile,plain,الرقم هو 052 044 9121,0520449121
+S07_30,S07,test,amount,plain,انخصم مني 250 ريال,250
+S08_01,S08,test,national_id,self_correction,رقم إقامتي 2798... عفوًا، 2 793 706 603,2793706603
+S08_02,S08,test,amount,plain,انخصم مني 300 ريال,300
+S08_03,S08,test,amount,self_correction,"دفعت 4,700... عفوًا، 4,750 ريال",4750
+S08_04,S08,test,national_id,plain,الإقامة 2 165 265 600,2165265600
+S08_05,S08,test,national_id,plain,الإقامة 2 717 059 493,2717059493
+S08_06,S08,test,mobile,plain,جوالي 057 734 5150,0577345150
+S08_07,S08,test,amount,plain,"المبلغ اللي انسحب 1,350 ريال",1350
+S08_08,S08,test,amount,plain,"المبلغ اللي انسحب 3,200 ريال",3200
+S08_09,S08,test,mobile,self_correction,الرقم هو 058... لا لا، أقصد 055 943 9455,0559439455
+S08_10,S08,test,amount,plain,"المبلغ اللي انسحب 2,500 ريال",2500
+S08_11,S08,test,mobile,self_correction,رقم جوالي 053... لا لا، أقصد 051 444 2564,0514442564
+S08_12,S08,test,mobile,self_correction,سجل عندك الرقم 055... لا غلطت، 059 229 9776,0592299776
+S08_13,S08,test,national_id,plain,رقم الهوية 1 227 342 423,1227342423
+S08_14,S08,test,national_id,plain,رقم الهوية 1 918 199 348,1918199348
+S08_15,S08,test,amount,plain,"انخصم مني 11,000 ريال",11000
+S08_16,S08,test,amount,self_correction,"دفعت 19,950... لا لا، أقصد 20,000 ريال",20000
+S08_17,S08,test,national_id,plain,رقم الإقامة 2 672 207 624,2672207624
+S08_18,S08,test,amount,plain,دفعت 19 ريال,19
+S08_19,S08,test,national_id,plain,الإقامة 2 597 255 831,2597255831
+S08_20,S08,test,mobile,plain,جوالي 059 577 6049,0595776049
+S08_21,S08,test,mobile,plain,رقم جوالي 055 554 5403,0555545403
+S08_22,S08,test,amount,plain,"حولت 15,250 ريال",15250
+S08_23,S08,test,amount,self_correction,"انخصم مني 12,550... لا لحظة، 12,500 ريال",12500
+S08_24,S08,test,mobile,self_correction,رقمي 050... لا لحظة، 055 751 6681,0557516681
+S08_25,S08,test,national_id,plain,الهوية 1 051 929 543,1051929543
+S08_26,S08,test,national_id,self_correction,الإقامة 2284... لا لا، أقصد 2 283 767 032,2283767032
+S08_27,S08,test,mobile,plain,الرقم هو 054 586 6103,0545866103
+S08_28,S08,test,mobile,plain,الرقم هو 055 181 9336,0551819336
+S08_29,S08,test,national_id,self_correction,الإقامة 2857... لا لا، أقصد 2 850 611 324,2850611324
+S08_30,S08,test,mobile,plain,سجل عندك الرقم 055 316 4007,0553164007
+S09_01,S09,test,amount,self_correction,"المبلغ 12,000... لا غلطت، 11,000 ريال",11000
+S09_02,S09,test,mobile,plain,سجل عندك الرقم 058 232 9718,0582329718
+S09_03,S09,test,mobile,plain,سجل عندك الرقم 051 987 9474,0519879474
+S09_04,S09,test,national_id,plain,الإقامة 2 226 980 718,2226980718
+S09_05,S09,test,amount,plain,"المبلغ 100,000 ريال",100000
+S09_06,S09,test,mobile,plain,جوالي 053 665 6315,0536656315
+S09_07,S09,test,mobile,self_correction,رقم جوالي 053... لا لحظة، 056 982 0546,0569820546
+S09_08,S09,test,national_id,plain,رقم الإقامة 2 909 919 421,2909919421
+S09_09,S09,test,national_id,self_correction,هويتي رقمها 1828... لا لحظة، 1 827 053 669,1827053669
+S09_10,S09,test,amount,self_correction,"حولت 1,250... لا غلطت، 250 ريال",250
+S09_11,S09,test,national_id,plain,رقم إقامتي 2 094 893 456,2094893456
+S09_12,S09,test,national_id,plain,الهوية 1 837 895 950,1837895950
+S09_13,S09,test,mobile,plain,جوالي 054 048 7387,0540487387
+S09_14,S09,test,amount,plain,"دفعت 20,000 ريال",20000
+S09_15,S09,test,mobile,self_correction,رقمي 057... لا غلطت، 052 895 4255,0528954255
+S09_16,S09,test,national_id,plain,الهوية 1 055 721 250,1055721250
+S09_17,S09,test,national_id,self_correction,رقم الإقامة 2596... لا لا، أقصد 2 593 747 740,2593747740
+S09_18,S09,test,national_id,plain,الإقامة 2 668 177 542,2668177542
+S09_19,S09,test,amount,plain,"انخصم مني 1,000 ريال",1000
+S09_20,S09,test,mobile,plain,الرقم هو 050 475 0894,0504750894
+S09_21,S09,test,amount,plain,"المبلغ 4,750 ريال",4750
+S09_22,S09,test,amount,plain,دفعت 11 ريال,11
+S09_23,S09,test,mobile,plain,سجل عندك الرقم 054 779 6493,0547796493
+S09_24,S09,test,amount,plain,"المبلغ اللي انسحب 12,500 ريال",12500
+S09_25,S09,test,mobile,self_correction,رقمي 059... لا غلطت، 050 363 5642,0503635642
+S09_26,S09,test,amount,self_correction,"انخصم مني 8,700... عفوًا، 8,600 ريال",8600
+S09_27,S09,test,amount,plain,"انخصم مني 36,400 ريال",36400
+S09_28,S09,test,mobile,self_correction,جوالي 056... عفوًا، 054 228 0528,0542280528
+S09_29,S09,test,national_id,self_correction,رقم هويتي 1740... لا غلطت، 1 749 560 080,1749560080
+S09_30,S09,test,national_id,plain,هويتي رقمها 1 323 246 338,1323246338
+S10_01,S10,test,amount,self_correction,دفعت 400... لا لا، أقصد 300 ريال,300
+S10_02,S10,test,amount,plain,"انخصم مني 5,000 ريال",5000
+S10_03,S10,test,national_id,plain,رقم الإقامة 2 677 094 456,2677094456
+S10_04,S10,test,national_id,plain,رقم الإقامة 2 573 856 073,2573856073
+S10_05,S10,test,mobile,self_correction,جوالي 052... لا غلطت، 058 047 7592,0580477592
+S10_06,S10,test,amount,plain,"انخصم مني 100,000 ريال",100000
+S10_07,S10,test,mobile,self_correction,جوالي 051... عفوًا، 057 104 5510,0571045510
+S10_08,S10,test,mobile,plain,رقمي 059 255 8653,0592558653
+S10_09,S10,test,national_id,plain,الإقامة 2 511 393 684,2511393684
+S10_10,S10,test,mobile,self_correction,الرقم هو 055... لا لا، أقصد 051 221 1227,0512211227
+S10_11,S10,test,mobile,plain,سجل عندك الرقم 055 093 9577,0550939577
+S10_12,S10,test,mobile,plain,الرقم هو 057 937 0294,0579370294
+S10_13,S10,test,national_id,self_correction,رقم إقامتي 2160... لا لحظة، 2 165 669 371,2165669371
+S10_14,S10,test,mobile,plain,جوالي 057 607 3020,0576073020
+S10_15,S10,test,national_id,plain,الإقامة 2 388 913 929,2388913929
+S10_16,S10,test,amount,plain,"المبلغ 2,500 ريال",2500
+S10_17,S10,test,amount,plain,"حولت 36,400 ريال",36400
+S10_18,S10,test,amount,plain,المبلغ 19 ريال,19
+S10_19,S10,test,national_id,self_correction,رقم الإقامة 2279... لا لا، أقصد 2 275 623 466,2275623466
+S10_20,S10,test,national_id,plain,الهوية 1 426 874 465,1426874465
+S10_21,S10,test,mobile,self_correction,الرقم هو 058... عفوًا، 050 176 7310,0501767310
+S10_22,S10,test,national_id,self_correction,الإقامة 2948... لا لا، أقصد 2 942 908 738,2942908738
+S10_23,S10,test,mobile,plain,جوالي 052 965 2962,0529652962
+S10_24,S10,test,national_id,plain,هويتي رقمها 1 992 645 232,1992645232
+S10_25,S10,test,national_id,plain,رقم الإقامة 2 155 565 944,2155565944
+S10_26,S10,test,amount,plain,"المبلغ 8,600 ريال",8600
+S10_27,S10,test,amount,self_correction,المبلغ اللي انسحب 350... لا غلطت، 250 ريال,250
+S10_28,S10,test,amount,self_correction,حولت 62... لا غلطت، 12 ريال,12
+S10_29,S10,test,mobile,plain,رقم جوالي 055 315 3722,0553153722
+S10_30,S10,test,amount,plain,"المبلغ 11,000 ريال",11000
