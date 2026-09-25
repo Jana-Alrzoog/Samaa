@@ -1,0 +1,25 @@
+# Shared by BOTH fine-tuning runs. The only difference between runs is
+# `telephony_prob` (0.0 for the clean run, 0.7 for the telephony run).
+# Same clips, same seed, same steps -> any difference is due to augmentation.
+base_model: openai/whisper-small
+language: arabic
+task: transcribe
+train_hours: 25            # SADA Saudi subset, clips <= 30 s, no overlapping speech
+learning_rate: 1.0e-5
+warmup_steps: 400
+lr_scheduler: linear
+per_device_batch_size: 16
+gradient_accumulation_steps: 2   # effective batch 32
+max_steps: 3500
+bf16: true                 # set fp16: true instead on T4
+gradient_checkpointing: true
+spec_augment: false        # off in both runs to isolate the telephony effect
+eval_steps: 500
+eval_clips: 500
+seed: 42
+
+telephony:
+  train_codecs: [mulaw, gsm, opus]   # adjust to what `telephony.py --list-codecs` shows
+  heldout_test_codec: amr            # never used in training; use opus if amr is unavailable
+  snr_db: [5, 20]
+  gain_db: [-6, 6]
